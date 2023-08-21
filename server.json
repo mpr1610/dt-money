@@ -1,0 +1,81 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "price": 1400,
+      "createdAt": "2023-08-11T20:00:52.503Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "Outcome",
+      "price": 50,
+      "createdAt": "2023-08-12T20:00:52.503Z"
+    },
+    {
+      "id": 3,
+      "description": "diversão",
+      "type": "Outcome",
+      "price": 465,
+      "createdAt": "2023-08-12T20:00:52.503Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 15000,
+      "category": "Vendas",
+      "createdAt": "2023-08-16T17:07:56.231Z",
+      "id": 4
+    },
+    {
+      "description": "Iogurte Natural",
+      "price": 3,
+      "category": "Alimentação",
+      "createdAt": "2023-08-16T17:26:42.497Z",
+      "id": 5
+    },
+    {
+      "description": "Desenvolvimento de site",
+      "price": 15000,
+      "category": "Vendas",
+      "createdAt": "2023-08-16T17:27:16.512Z",
+      "id": 6
+    },
+    {
+      "description": "site",
+      "price": 1500,
+      "category": "vendas",
+      "createdAt": "2023-08-16T17:27:37.732Z",
+      "id": 7
+    },
+    {
+      "description": "das",
+      "price": 5000,
+      "category": "Vendas",
+      "createdAt": "2023-08-16T17:41:52.764Z",
+      "id": 8
+    },
+    {
+      "description": "Passagem Aérea ",
+      "price": 700,
+      "category": "Viagens",
+      "createdAt": "2023-08-17T19:54:05.506Z",
+      "id": 9
+    },
+    {
+      "description": "Salário",
+      "price": 50000,
+      "category": "Salário",
+      "createdAt": "2023-08-17T19:54:27.367Z",
+      "id": 10
+    },
+    {
+      "description": "Receita ",
+      "price": 3000,
+      "category": "Vendas",
+      "createdAt": "2023-08-21T17:01:59.764Z",
+      "id": 11
+    }
+  ]
+}
